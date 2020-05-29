@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-28T08:18:55.831Z</updated>
+  <updated>2020-05-29T01:02:23.869Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,45 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2020/05/29/test/"/>
+    <id>http://yoursite.com/2020/05/29/test/</id>
+    <published>2020-05-29T01:02:23.000Z</published>
+    <updated>2020-05-29T01:02:23.869Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>微信银行打开APP测试</title>
+    <link href="http://yoursite.com/2020/05/29/webank/"/>
+    <id>http://yoursite.com/2020/05/29/webank/</id>
+    <published>2020-05-29T00:55:15.000Z</published>
+    <updated>2020-05-29T01:39:23.961Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="这是专门用来测试微信银行打开APP的链接"><a href="#这是专门用来测试微信银行打开APP的链接" class="headerlink" title="这是专门用来测试微信银行打开APP的链接"></a>这是专门用来测试微信银行打开APP的链接</h5><hr><p><a href="https://u1-pm.lydbank.com.cn:8445/lyyhapp/index.html" target="_blank" rel="noopener">打开链接 lyyhapp/index.html</a></p><hr><p><a href="https://u1-pm.lydbank.com.cn:8445/lyyhapp/index" target="_blank">打开链接 lyyhapp/index</a></p><hr><p><a href="https://u1-pm.lydbank.com.cn:8445/iosapp/index.html" target="_blank" rel="noopener">打开链接 iosapp/index.html</a></p><hr><p><a href="https://u1-pm.lydbank.com.cn:8445/iosapp/" target="_blank">打开链接 iosapp/index</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;这是专门用来测试微信银行打开APP的链接&quot;&gt;&lt;a href=&quot;#这是专门用来测试微信银行打开APP的链接&quot; class=&quot;headerlink&quot; title=&quot;这是专门用来测试微信银行打开APP的链接&quot;&gt;&lt;/a&gt;这是专门用来测试微信银行打开APP的链接&lt;/h5&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="wxChat" scheme="http://yoursite.com/tags/wxChat/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
